@@ -1,0 +1,87 @@
+,researcher_id,first_name,last_name,field,institution,joined_year,h_index,publications_count,is_active,country,email,grant_id,funding_body,year_awarded,amount_cad,project_title,status,pub_id,title,year,citations,journal,open_access
+0,R025,Hans,Müller,Computer Vision,ETH Zurich,2014,3,15,True,USA,hans.müller@university.edu,,,,,,,P052,Federated Learning for Privacy Preservation,2022.0,191.0,Nature Machine Intelligence,True
+1,R025,Hans,Müller,Computer Vision,ETH Zurich,2014,3,15,True,USA,hans.müller@university.edu,,,,,,,P001,Causal Inference with Observational Data,2018.0,26.0,ACL,True
+2,R023,Ivan,Petrov,Machine Learning,University of Toronto,2011,15,45,True,Canada,ivan.petrov@university.edu,G004,CFI,2019.0,80000.0,AI for Climate,completed,P018,Federated Learning for Privacy Preservation,2010.0,47.0,EMNLP,False
+3,R011,Karim,Obeid,NLP,UBC,2018,18,72,True,Canada,karim.obeid@pssar.ca,G007,Mitacs,2017.0,90000.0,Data for Good,active,P002,Multi-lingual BERT Fine-Tuning,2016.0,197.0,CVPR,True
+4,R011,Karim,Obeid,NLP,UBC,2018,18,72,True,Canada,karim.obeid@pssar.ca,G007,Mitacs,2017.0,90000.0,Data for Good,active,P053,Efficient Data Pipelines at Scale,2021.0,153.0,EMNLP,False
+5,R011,Karim,Obeid,NLP,UBC,2018,18,72,True,Canada,karim.obeid@pssar.ca,G007,Mitacs,2017.0,90000.0,Data for Good,active,P020,Graph Neural Networks for Molecule Prediction,2013.0,151.0,JMLR,True
+6,R028,Bruno,Ferreira,Computer Vision,ETH Zurich,2019,3,12,True,UK,bruno.ferreira@university.edu,,,,,,,,,,,,
+7,R031,Jiyeon,Park,Statistics,MIT,2008,9,27,True,UK,jiyeon.park@university.edu,G019,CIHR,2021.0,60000.0,Healthcare NLP,active,P055,Self-Supervised Learning in Vision,2021.0,143.0,ICML,False
+8,R020,Kenji,Tanaka,NLP,Oxford,2022,8,32,False,Germany,kenji.tanaka@university.edu,G012,CIHR,2018.0,85000.0,Data for Good,pending,P046,Efficient Data Pipelines at Scale,2022.0,115.0,ICLR,False
+9,R020,Kenji,Tanaka,NLP,Oxford,2022,8,32,False,Germany,kenji.tanaka@university.edu,G012,CIHR,2018.0,85000.0,Data for Good,pending,P012,Bias in NLP Benchmarks: A Critical Review,2022.0,2.0,ACL,True
+10,R020,Kenji,Tanaka,NLP,Oxford,2022,8,32,False,Germany,kenji.tanaka@university.edu,G029,CFI,2018.0,129000.0,Multilingual Models,completed,P046,Efficient Data Pipelines at Scale,2022.0,115.0,ICLR,False
+11,R020,Kenji,Tanaka,NLP,Oxford,2022,8,32,False,Germany,kenji.tanaka@university.edu,G029,CFI,2018.0,129000.0,Multilingual Models,completed,P012,Bias in NLP Benchmarks: A Critical Review,2022.0,2.0,ACL,True
+12,R022,Minh,Nguyen,Statistics,McGill University,2017,17,51,False,France,minh.nguyen@university.edu,G010,CFI,2022.0,70000.0,Multilingual Models,completed,P014,Multi-lingual BERT Fine-Tuning,2013.0,160.0,JMLR,True
+13,R014,Nour,Saleh,Computer Vision,Concordia University,2021,16,96,True,Germany,nour.saleh@pssar.ca,,,,,,,P026,Deep Learning for Medical Imaging,2016.0,194.0,JMLR,True
+14,R016,Li,Chen,Machine Learning,McGill University,2008,7,21,True,Germany,li.chen@university.edu,G009,CIHR,2019.0,110000.0,Healthcare NLP,pending,P019,Efficient Data Pipelines at Scale,2018.0,98.0,JMLR,False
+15,R016,Li,Chen,Machine Learning,McGill University,2008,7,21,True,Germany,li.chen@university.edu,G017,NSERC,2022.0,,Multilingual Models,,P019,Efficient Data Pipelines at Scale,2018.0,98.0,JMLR,False
+16,R029,Marie,Dubois,NLP,MIT,2013,7,35,True,USA,marie.dubois@university.edu,,,,,,,,,,,,
+17,R008,Younes,Nasser,Computer Vision,McGill University,2015,16,112,True,Lebanon,younes.nasser@pssar.ca,,,,,,,P011,Deep Learning for Medical Imaging,2024.0,143.0,NeurIPS,False
+18,R008,Younes,Nasser,Computer Vision,McGill University,2015,16,112,True,Lebanon,younes.nasser@pssar.ca,,,,,,,P009,Deep Learning for Medical Imaging,2017.0,122.0,ICLR,False
+19,R033,Marco,Bianchi,Data Engineering,Oxford,2016,7,42,True,Germany,marco.bianchi@university.edu,,,,,,,P005,Transformer Models in Low-Resource Settings,2023.0,38.0,CVPR,True
+20,R033,Marco,Bianchi,Data Engineering,Oxford,2016,7,42,True,Germany,marco.bianchi@university.edu,,,,,,,P050,Self-Supervised Learning in Vision,2014.0,128.0,ICML,True
+21,R033,Marco,Bianchi,Data Engineering,Oxford,2016,7,42,True,Germany,marco.bianchi@university.edu,,,,,,,P027,Graph Neural Networks for Molecule Prediction,2020.0,114.0,ICLR,False
+22,R030,Erik,Johansson,Computer Vision,University of Toronto,2008,15,60,False,France,erik.johansson@university.edu,G025,SSHRC,2021.0,70000.0,AI for Climate,active,,,,,,
+23,R015,James,Martínez,Data Engineering,University of Toronto,2007,14,42,True,UK,james.martínez@university.edu,G014,CFI,2023.0,65000.0,Data for Good,active,,,,,,
+24,R015,James,Martínez,Data Engineering,University of Toronto,2007,14,42,True,UK,james.martínez@university.edu,G023,SSHRC,2015.0,55000.0,Data for Good,completed,,,,,,
+25,R015,James,Martínez,Data Engineering,University of Toronto,2007,14,42,True,UK,james.martínez@university.edu,G024,SSHRC,2023.0,,Healthcare NLP,pending,,,,,,
+26,R032,Pierre,Moreau,Data Engineering,McGill University,2014,8,24,True,Australia,pierre.moreau@university.edu,,,,,,,,,,,,
+27,R013,Tariq,Rashid,Machine Learning,UBC,2020,24,168,True,Germany,tariq.rashid@pssar.ca,,,,,,,P047,Self-Supervised Learning in Vision,2022.0,113.0,Nature Machine Intelligence,True
+28,R013,Tariq,Rashid,Machine Learning,UBC,2020,24,168,True,Germany,tariq.rashid@pssar.ca,,,,,,,P060,Deep Learning for Medical Imaging,2016.0,1.0,ACL,False
+29,R013,Tariq,Rashid,Machine Learning,UBC,2020,24,168,True,Germany,tariq.rashid@pssar.ca,,,,,,,P017,Causal Inference with Observational Data,2019.0,111.0,ACL,False
+30,R013,Tariq,Rashid,Machine Learning,UBC,2020,24,168,True,Germany,tariq.rashid@pssar.ca,,,,,,,P024,Bias in NLP Benchmarks: A Critical Review,2022.0,168.0,NeurIPS,False
+31,R001,Claire,Davidson,Machine Learning,UBC,2008,16,64,True,Jordan,claire.davidson@pssar.ca,G011,CFI,2016.0,55000.0,Ethical AI,completed,P006,Transformer Models in Low-Resource Settings,2020.0,112.0,ICML,False
+32,R001,Claire,Davidson,Machine Learning,UBC,2008,16,64,True,Jordan,claire.davidson@pssar.ca,G011,CFI,2016.0,55000.0,Ethical AI,completed,P048,Efficient Data Pipelines at Scale,2017.0,62.0,ACL,False
+33,R001,Claire,Davidson,Machine Learning,UBC,2008,16,64,True,Jordan,claire.davidson@pssar.ca,G011,CFI,2016.0,55000.0,Ethical AI,completed,P_HIDDEN,Data Opens Doors: A Manifesto for Open Research,2024.0,9999.0,Nature Machine Intelligence,True
+34,R001,Claire,Davidson,Machine Learning,UBC,2008,16,64,True,Jordan,claire.davidson@pssar.ca,G011,CFI,2016.0,55000.0,Ethical AI,completed,P031,Federated Learning for Privacy Preservation,2021.0,157.0,Nature Machine Intelligence,True
+35,R001,Claire,Davidson,Machine Learning,UBC,2008,16,64,True,Jordan,claire.davidson@pssar.ca,G018,SSHRC,2017.0,75000.0,AI for Climate,pending,P006,Transformer Models in Low-Resource Settings,2020.0,112.0,ICML,False
+36,R001,Claire,Davidson,Machine Learning,UBC,2008,16,64,True,Jordan,claire.davidson@pssar.ca,G018,SSHRC,2017.0,75000.0,AI for Climate,pending,P048,Efficient Data Pipelines at Scale,2017.0,62.0,ACL,False
+37,R001,Claire,Davidson,Machine Learning,UBC,2008,16,64,True,Jordan,claire.davidson@pssar.ca,G018,SSHRC,2017.0,75000.0,AI for Climate,pending,P_HIDDEN,Data Opens Doors: A Manifesto for Open Research,2024.0,9999.0,Nature Machine Intelligence,True
+38,R001,Claire,Davidson,Machine Learning,UBC,2008,16,64,True,Jordan,claire.davidson@pssar.ca,G018,SSHRC,2017.0,75000.0,AI for Climate,pending,P031,Federated Learning for Privacy Preservation,2021.0,157.0,Nature Machine Intelligence,True
+39,R003,Miguel,Torres,Computer Vision,University of Waterloo,2010,21,126,True,Jordan,miguel.torres@pssar.ca,G008,CFI,2023.0,45000.0,Ethical AI,completed,P015,Causal Inference with Observational Data,2017.0,128.0,NeurIPS,False
+40,R003,Miguel,Torres,Computer Vision,University of Waterloo,2010,21,126,True,Jordan,miguel.torres@pssar.ca,G013,CIHR,2016.0,95000.0,Healthcare NLP,completed,P015,Causal Inference with Observational Data,2017.0,128.0,NeurIPS,False
+41,R003,Miguel,Torres,Computer Vision,University of Waterloo,2010,21,126,True,Jordan,miguel.torres@pssar.ca,G015,Mitacs,2022.0,120000.0,Healthcare NLP,active,P015,Causal Inference with Observational Data,2017.0,128.0,NeurIPS,False
+42,R012,Sara,Omar,Bioinformatics,University of Waterloo,2019,17,102,True,Palestine,sara.omar@pssar.ca,G002,SSHRC,2022.0,50000.0,Data for Good,pending,P013,Efficient Data Pipelines at Scale,2019.0,194.0,ACL,False
+43,R007,Lena,Elkhoury,NLP,UBC,2014,25,125,True,Germany,lena.elkhoury@pssar.ca,,,,,,,P022,Causal Inference with Observational Data,2023.0,111.0,CVPR,True
+44,R007,Lena,Elkhoury,NLP,UBC,2014,25,125,True,Germany,lena.elkhoury@pssar.ca,,,,,,,P041,Efficient Data Pipelines at Scale,2010.0,7.0,ICLR,True
+45,R017,Emily,Williams,NLP,University of Toronto,2006,20,120,False,Germany,emily.williams@university.edu,,,,,,,P056,Deep Learning for Medical Imaging,2016.0,99.0,Nature Machine Intelligence,False
+46,R027,Elif,Yildiz,Computer Vision,Oxford,2012,7,28,False,UK,elif.yildiz@university.edu,G003,Mitacs,2016.0,100000.0,Ethical AI,completed,P044,Self-Supervised Learning in Vision,2010.0,179.0,Nature Machine Intelligence,True
+47,R027,Elif,Yildiz,Computer Vision,Oxford,2012,7,28,False,UK,elif.yildiz@university.edu,G005,Mitacs,2023.0,,AI for Climate,pending,P044,Self-Supervised Learning in Vision,2010.0,179.0,Nature Machine Intelligence,True
+48,R027,Elif,Yildiz,Computer Vision,Oxford,2012,7,28,False,UK,elif.yildiz@university.edu,G028,CFI,2016.0,80000.0,Healthcare NLP,active,P044,Self-Supervised Learning in Vision,2010.0,179.0,Nature Machine Intelligence,True
+49,R018,Stefan,Hoffman,Data Engineering,ETH Zurich,2012,14,70,True,UK,stefan.hoffman@university.edu,,,,,,,P016,Efficient Data Pipelines at Scale,2024.0,41.0,ICLR,False
+50,R018,Stefan,Hoffman,Data Engineering,ETH Zurich,2012,14,70,True,UK,stefan.hoffman@university.edu,,,,,,,P007,Efficient Data Pipelines at Scale,2014.0,128.0,Nature Machine Intelligence,False
+51,R018,Stefan,Hoffman,Data Engineering,ETH Zurich,2012,14,70,True,UK,stefan.hoffman@university.edu,,,,,,,P057,Graph Neural Networks for Molecule Prediction,2019.0,9.0,EMNLP,False
+52,R026,Amr,Hassan,Machine Learning,Oxford,2006,14,42,True,Australia,amr.hassan@university.edu,,,,,,,P036,Graph Neural Networks for Molecule Prediction,2011.0,31.0,ICLR,False
+53,R026,Amr,Hassan,Machine Learning,Oxford,2006,14,42,True,Australia,amr.hassan@university.edu,,,,,,,P021,Deep Learning for Medical Imaging,2013.0,74.0,JMLR,False
+54,R026,Amr,Hassan,Machine Learning,Oxford,2006,14,42,True,Australia,amr.hassan@university.edu,,,,,,,P010,Transformer Models in Low-Resource Settings,2014.0,115.0,Nature Machine Intelligence,False
+55,R026,Amr,Hassan,Machine Learning,Oxford,2006,14,42,True,Australia,amr.hassan@university.edu,,,,,,,P040,Self-Supervised Learning in Vision,2022.0,59.0,ICLR,True
+56,R026,Amr,Hassan,Machine Learning,Oxford,2006,14,42,True,Australia,amr.hassan@university.edu,,,,,,,P032,Federated Learning for Privacy Preservation,2022.0,45.0,ICLR,True
+57,R004,Hana,Abou-Saleh,Data Engineering,University of Waterloo,2011,17,119,True,UK,hana.abousaleh@pssar.ca,,,,,,,P043,Graph Neural Networks for Molecule Prediction,2019.0,62.0,ICML,False
+58,R024,Anna,Kowalski,Computer Vision,MIT,2021,10,60,False,UK,anna.kowalski@university.edu,,,,,,,P008,Uncertainty Quantification in Neural Networks,2015.0,159.0,ACL,True
+59,R024,Anna,Kowalski,Computer Vision,MIT,2021,10,60,False,UK,anna.kowalski@university.edu,,,,,,,P049,Uncertainty Quantification in Neural Networks,2014.0,116.0,ICLR,True
+60,R034,Isabela,Silva,NLP,Oxford,2011,13,52,False,Canada,isabela.silva@university.edu,G022,SSHRC,2015.0,45000.0,Multilingual Models,active,P029,Deep Learning for Medical Imaging,2020.0,20.0,ACL,True
+61,R034,Isabela,Silva,NLP,Oxford,2011,13,52,False,Canada,isabela.silva@university.edu,G022,SSHRC,2015.0,45000.0,Multilingual Models,active,P037,Self-Supervised Learning in Vision,2019.0,129.0,NeurIPS,False
+62,R021,Carlos,Ramos,Data Engineering,Oxford,2012,12,36,False,France,carlos.ramos@university.edu,G006,CFI,2017.0,60000.0,Ethical AI,pending,P042,Uncertainty Quantification in Neural Networks,2011.0,65.0,ICLR,False
+63,R021,Carlos,Ramos,Data Engineering,Oxford,2012,12,36,False,France,carlos.ramos@university.edu,G020,NSERC,2022.0,80000.0,Ethical AI,completed,P042,Uncertainty Quantification in Neural Networks,2011.0,65.0,ICLR,False
+64,R006,Arjun,Patel,Robotics,Concordia University,2013,19,76,True,Palestine,arjun.patel@pssar.ca,G001,SSHRC,2022.0,75000.0,Data for Good,active,P039,Efficient Data Pipelines at Scale,2019.0,25.0,ICML,True
+65,R006,Arjun,Patel,Robotics,Concordia University,2013,19,76,True,Palestine,arjun.patel@pssar.ca,G001,SSHRC,2022.0,75000.0,Data for Good,active,P023,Transformer Models in Low-Resource Settings,2011.0,127.0,ICML,False
+66,R006,Arjun,Patel,Robotics,Concordia University,2013,19,76,True,Palestine,arjun.patel@pssar.ca,G001,SSHRC,2022.0,75000.0,Data for Good,active,P054,Deep Learning for Medical Imaging,2023.0,68.0,Nature Machine Intelligence,False
+67,R006,Arjun,Patel,Robotics,Concordia University,2013,19,76,True,Palestine,arjun.patel@pssar.ca,G016,Mitacs,2015.0,50000.0,AI for Climate,pending,P039,Efficient Data Pipelines at Scale,2019.0,25.0,ICML,True
+68,R006,Arjun,Patel,Robotics,Concordia University,2013,19,76,True,Palestine,arjun.patel@pssar.ca,G016,Mitacs,2015.0,50000.0,AI for Climate,pending,P023,Transformer Models in Low-Resource Settings,2011.0,127.0,ICML,False
+69,R006,Arjun,Patel,Robotics,Concordia University,2013,19,76,True,Palestine,arjun.patel@pssar.ca,G016,Mitacs,2015.0,50000.0,AI for Climate,pending,P054,Deep Learning for Medical Imaging,2023.0,68.0,Nature Machine Intelligence,False
+70,R006,Arjun,Patel,Robotics,Concordia University,2013,19,76,True,Palestine,arjun.patel@pssar.ca,G027,CFI,2021.0,95000.0,Multilingual Models,pending,P039,Efficient Data Pipelines at Scale,2019.0,25.0,ICML,True
+71,R006,Arjun,Patel,Robotics,Concordia University,2013,19,76,True,Palestine,arjun.patel@pssar.ca,G027,CFI,2021.0,95000.0,Multilingual Models,pending,P023,Transformer Models in Low-Resource Settings,2011.0,127.0,ICML,False
+72,R006,Arjun,Patel,Robotics,Concordia University,2013,19,76,True,Palestine,arjun.patel@pssar.ca,G027,CFI,2021.0,95000.0,Multilingual Models,pending,P054,Deep Learning for Medical Imaging,2023.0,68.0,Nature Machine Intelligence,False
+73,R005,Chidi,Okonkwo,Bioinformatics,UBC,2012,22,154,True,Jordan,chidi.okonkwo@pssar.ca,,,,,,,P028,Efficient Data Pipelines at Scale,2015.0,108.0,Nature Machine Intelligence,False
+74,R019,Priya,Kaur,Data Engineering,McGill University,2012,19,114,False,USA,priya.kaur@university.edu,,,,,,,P035,Efficient Data Pipelines at Scale,2015.0,57.0,JMLR,False
+75,R009,Fatima,Siddiqui,Machine Learning,York University,2016,20,80,True,Lebanon,fatima.siddiqui@pssar.ca,G026,CFI,2019.0,85000.0,Data for Good,pending,P059,Bias in NLP Benchmarks: A Critical Review,2010.0,68.0,JMLR,False
+76,R009,Fatima,Siddiqui,Machine Learning,York University,2016,20,80,True,Lebanon,fatima.siddiqui@pssar.ca,G026,CFI,2019.0,85000.0,Data for Good,pending,P004,Deep Learning for Medical Imaging,2017.0,179.0,Nature Machine Intelligence,True
+77,R010,Rania,Dib,Data Engineering,McGill University,2017,23,115,True,UK,rania.dib@pssar.ca,G021,Mitacs,2017.0,100000.0,Ethical AI,completed,P025,Bias in NLP Benchmarks: A Critical Review,2023.0,20.0,JMLR,False
+78,R010,Rania,Dib,Data Engineering,McGill University,2017,23,115,True,UK,rania.dib@pssar.ca,G021,Mitacs,2017.0,100000.0,Ethical AI,completed,P045,Federated Learning for Privacy Preservation,2017.0,52.0,ICLR,False
+79,R010,Rania,Dib,Data Engineering,McGill University,2017,23,115,True,UK,rania.dib@pssar.ca,G021,Mitacs,2017.0,100000.0,Ethical AI,completed,P030,Efficient Data Pipelines at Scale,2014.0,60.0,ACL,True
+80,R010,Rania,Dib,Data Engineering,McGill University,2017,23,115,True,UK,rania.dib@pssar.ca,G021,Mitacs,2017.0,100000.0,Ethical AI,completed,P038,Graph Neural Networks for Molecule Prediction,2018.0,42.0,JMLR,True
+81,R010,Rania,Dib,Data Engineering,McGill University,2017,23,115,True,UK,rania.dib@pssar.ca,G021,Mitacs,2017.0,100000.0,Ethical AI,completed,P034,Transformer Models in Low-Resource Settings,2012.0,127.0,NeurIPS,False
+82,R010,Rania,Dib,Data Engineering,McGill University,2017,23,115,True,UK,rania.dib@pssar.ca,G021,Mitacs,2017.0,100000.0,Ethical AI,completed,P003,Multi-lingual BERT Fine-Tuning,2012.0,171.0,ICLR,True
+83,R010,Rania,Dib,Data Engineering,McGill University,2017,23,115,True,UK,rania.dib@pssar.ca,G021,Mitacs,2017.0,100000.0,Ethical AI,completed,P033,Federated Learning for Privacy Preservation,2013.0,190.0,JMLR,True
+84,R002,Layla,Ahmad,NLP,York University,2009,18,72,True,Palestine,layla.ahmad@pssar.ca,,,,,,,P058,Self-Supervised Learning in Vision,2013.0,137.0,CVPR,False
+85,R002,Layla,Ahmad,NLP,York University,2009,18,72,True,Palestine,layla.ahmad@pssar.ca,,,,,,,P051,Causal Inference with Observational Data,2023.0,117.0,JMLR,True

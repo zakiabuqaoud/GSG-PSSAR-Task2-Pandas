@@ -3,6 +3,13 @@ import numpy as np
 import openpyxl
 
 # 2- clean function
+def clean_df(df):
+    df_cleaned = df.copy()
+    for col in df_cleaned.columns:
+        print(col)
+        df_cleaned[col] = df_cleaned[col].replace(["N/A", "", "None", "-"], np.nan)
+    return df_cleaned
+
 def clean_funding_table(df):
     df_cleaned = df.copy()
     # handle missing data
@@ -84,6 +91,7 @@ print(lost_names)
 
 # //// 3- First Question /////
 #  ////////////////////     First Question //////////////
+res_fund_pub_merged_left_df = clean_df(res_fund_pub_merged_left_df)
 citations = res_fund_pub_merged_left_df.groupby("researcher_id")['citations'].sum().sort_values(ascending = False)
 cit_index = citations.index[0]
 top_cit = citations.iloc[0]

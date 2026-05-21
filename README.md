@@ -1,11 +1,12 @@
 # GSG-PSSAR-Task2-Pandas
-this is Socend Assignment
+this is Second Assignment
 
 # Merge By Left vs Marge by inner
 
 rows in left: 86 rows
 rows in inner: 49 rows
 lost rows in inner: 86 - 49 = 37 rows lost
+
 lost Researchers name by inner:
    researcher_id first_name   last_name
 0           R025       Hans      Müller
@@ -41,3 +42,7 @@ Top Funding: 960000.0
 researcher_id                              R026
 first_name                                  Amr
 last_name                                Hassan
+
+# What was the hardest part?
+Extracting missing names in inner
+Answering the questions requires focus.
